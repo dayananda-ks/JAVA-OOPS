@@ -1,3 +1,5 @@
+package opps;
+
 import java.util.Scanner;
 
 public class javaswitch {
