@@ -1,4 +1,4 @@
-package opps;
+package Day1;
 
 public class Reuse {
     public int addition(int num1,int num2){

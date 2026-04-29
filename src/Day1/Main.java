@@ -1,4 +1,4 @@
-package opps;
+package Day1;
 
 public class Main {
 
