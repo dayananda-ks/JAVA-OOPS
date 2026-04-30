@@ -1,4 +1,5 @@
 package Day3;
+
 class Car {
 
     public void carisMoving() {
