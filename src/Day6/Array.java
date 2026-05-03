@@ -1,6 +1,7 @@
 package Day6;
 
-import java.util.Arrays // It is the Standard java libarary used for printing of All Elements in array. Without Using Standard library we print one by one by using index or key value.
+import java.util.Arrays; // It is the Standard java libarary used for printing of All Elements in array. Without Using Standard library we print one by one by using index or key value.
+
 
 public class Array {
     
